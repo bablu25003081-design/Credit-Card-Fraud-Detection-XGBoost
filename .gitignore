@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.ipynb_checkpoints/\ndata/*.xlsx\ndata/*.zip\nbert_results/\ncheckpoint-*/\n.DS_Store\nThumbs.db\n
